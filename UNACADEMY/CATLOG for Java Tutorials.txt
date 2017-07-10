@@ -1,0 +1,68 @@
+JAVA Catlog:
+Part 1 - Introduction.
+	1. Introduction to Java.	
+	2. Setting up JDK.
+	3. How to run a Java Program.
+	4. Downloading Java IDE (Eclipse).
+	5. My first Java Program.
+
+Part 2 - Building Blocks.
+	6. Data types & Variables.
+	7. User Input.
+	8. Mathematical Operators
+	9. Increment Operators
+	10. Let's create a Program
+Part 3-
+	11. If statment
+	12. Logical Operators
+	13. Nested If & else if statements
+	14. Switch Statements
+	15. Conditional Operators
+Part 4-
+	16. While Loop
+	17. For loop
+	18. Do While loop
+	19. Class & Mehtods
+	20. Method Parameters and return statements
+Part 5-
+	21. Constructors
+	22. Arrays Introduction.
+	23. Array Program.
+	24. 2D array.
+	25. Enhanced For-Loop & Variable argument length.
+Part 6- 
+	26. Public, Private & This.
+	27. Method Overloading.
+	28. Constructor Overloading.	
+	29. Constructor Call.
+	30. Static KeyWord.
+
+Part 7-
+	31. Final Keyword.
+	32. Exceptions.
+	33. File IO.
+	34. Creating Files.
+	35. Writing and reading files.
+
+Part 8-
+	36. Enumeration.
+	37. Date and Time
+	38. Inheritence.
+	39. Overriding in Java
+	40. Polymorphic Arguments & Polymorphic arrays.
+	41. Overriding Rules.
+Part 9-
+	42. Abstraction.
+	43. Interfaces.
+	44. Packages.
+	45. Inner Class.
+	46. String vs StringBuilder
+
+Part 10-
+	47. MultiThreading Intro.
+	48. Multithreading Program.
+	49. More on Java-1(Multilevel-Multiple Inheritence).
+	50. More on Java-2.
+	51. Series Finale.
+_________________________________________________________
+
